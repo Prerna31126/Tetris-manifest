@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: prerna31126/tetris77:latest
+        image: prerna31126/tetrisv1
         ports:
         - containerPort: 3000   
 
